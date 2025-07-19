@@ -43,7 +43,7 @@ To create powerful, minimal, and intuitive digital tools — while pursuing my d
 
 ---
 
-### 📬 Get in Touch
+### 📬 Contact with me
 
 <p align="center">
   <a href="https://t.me/val1kdobriyyy">
