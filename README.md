@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#007acc;">val1k</span> 👋</h1>
+<h1 align="center"><span style="color:#007acc;">Welcome to my GitHub</span> 👋</h1>
 
 <p align="center">
   🚀 Future Airbus pilot & passionate software developer<br>
